@@ -1,0 +1,7 @@
+- Escolha uma imagem de sua preferência e faça o download de 20 e 30 amostras.
+
+- Crie seu próprio dataset usando o Roboflow. Siga as instruções conforme os tutoriais e documentações
+https://docs.roboflow.com/
+
+- Após criar o dataset, faça o treinamento do modelo.
+
